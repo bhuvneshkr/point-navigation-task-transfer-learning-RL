@@ -9,5 +9,6 @@ the model on passive vision tasks before adapting to perform a manipulation task
 We used the RL (PPO) agent architecture discussed in Manolis Savva[2] et.al as the base model on which we performed visual transfer learning.
 
 [1] Learning to See before Learning to Act - Visual Pre-training for Manipulation Lin Yen-Chen, Andy Zeng, Shuran Song, Phillip Isola, Tsung-Yi Lin, ICRA 2020.
+
 [2] Habitat: A Platform for Embodied AI Research - Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao , Erik Wijmans, Bhavana Jain, Julian Straub, 
 Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra
